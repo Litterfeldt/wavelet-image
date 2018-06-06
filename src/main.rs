@@ -1,5 +1,3 @@
-#![feature(stdsimd)]
-
 mod image;
 
 fn main() {
